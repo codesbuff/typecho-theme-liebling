@@ -24,11 +24,11 @@ http://wolone.boke.run
 
 ## 首页
 
-![](.\img\首页.png)
+![](img/首页.png)
 
 
 
-![](D:\code\typecho-theme-liebling\img\首页暗色.png)
+![](img/首页暗色.png)
 
 ## 文章页
 
