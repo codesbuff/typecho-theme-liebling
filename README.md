@@ -24,7 +24,7 @@ http://wolone.boke.run
 
 ## 首页
 
-![](D:\code\typecho-theme-liebling\img\首页.png)
+![](.\img\首页.png)
 
 
 
