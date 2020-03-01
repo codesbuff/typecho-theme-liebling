@@ -1,6 +1,12 @@
 # Typecho-Theme-Liebling
 这是一个美丽而干净的主题，易于使用且舒适。
 
+## 特别感谢
+
+感谢[笔迹](https://www.penlogs.com/)提供空间
+
+感谢[泽泽](https://www.qqdie.com/)整理的typecho文档
+
 ## 演示
 
 http://wolone.boke.run
@@ -32,27 +38,27 @@ http://wolone.boke.run
 
 ## 文章页
 
-![](D:\code\typecho-theme-liebling\img\日志.png)
+![](img/日志.png)
 
-![无封面图片](D:\code\typecho-theme-liebling\img\无封面图片.png)
+![无封面图片](img/无封面图片.png)
 
 ## 单页
 
-![](D:\code\typecho-theme-liebling\img\关于.png)
+![](img/关于.png)
 
 ## 分类页
 
-![](D:\code\typecho-theme-liebling\img\分类.png)
+![](img/分类.png)
 
 ## 标签栏
 
-![](D:\code\typecho-theme-liebling\img\标签.png)
+![](img/标签.png)
 
 ## 设置页
 
-![](D:\code\typecho-theme-liebling\img\设置封面图片.png)
+![](img/设置封面图片.png)
 
-![外观设置](D:\code\typecho-theme-liebling\img\外观设置.png)
+![外观设置](img/外观设置.png)
 
 ## 最后
 
@@ -64,4 +70,4 @@ http://wolone.boke.run
 
 大家觉得不错的可以打个赏，也算是对新人的一点鼓励，谢谢！
 
-![](D:\code\typecho-theme-liebling\img\二维码.png)
+![](img/二维码.png)
