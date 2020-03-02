@@ -11,8 +11,9 @@ function themeConfig($form) {
 }
 
 if($_SERVER['SCRIPT_NAME']=="/admin/write-post.php"){
-    function themeFields($layout) {
-        $thumb = new Typecho_Widget_Helper_Form_Element_Text('thumb', NULL, NULL, _t('缩略图'), _t('图片地址'));
+    function themeFields($layout) 
+	{
+        $thumb = new Typecho_Widget_Helper_Form_Element_Text('thumb', NULL, NULL, _t('缩略图<style>table.typecho-list-table.mono input {width: 100%;}table.typecho-list-table.mono textarea {width: 100%;height: 150px;}</style>'), _t('图片地址'));
         $layout->addItem($thumb);
     }
-    }
+}

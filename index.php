@@ -18,7 +18,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
   <div class="l-content">
     <div class="l-wrapper" data-aos="fade-up" data-aos-delay="300">
       <div class="l-grid centered">
-          <?php $this->need('partials/loop.php'); ?>
+		  <?php $this->need('partials/loop.php'); ?>
       </div>
     </div>
     <?php $this->need('partials/pagination.php'); ?>
